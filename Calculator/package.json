@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^13.1.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
   }
 }
